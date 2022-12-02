@@ -1,0 +1,27 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "A double slider crank chain consists of four links forming ",
+      "answers": {
+        "a": "Two sliding pairs and two turning pairs",
+        "b": "Three sliding pairs and one turning pair",
+        "c": "One sliding pairs and Three turning pairs",
+        "d": "Four sliding pairs"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Maximum sliding speed of each tongue (in m/s) is given by",
+      "answers": {
+        "a": "v=r+w",
+        "b": "v=r/w",
+        "c": "v=r.w",
+        "d": "v=r-w"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
